@@ -2,6 +2,18 @@
 
 Raising `r_size_cull_threshold` gives a big FPS boost, but it also culls distant heroes and their health bars. This mod keeps them on screen.
 
+> [!IMPORTANT]
+> **The VPK and the two cvars only work together.** You must set both of these in `gameinfo.gi` alongside the mod:
+> ```
+> r_size_cull_threshold      "6.4"
+> citadel_unit_status_width  "2000"
+> ```
+> - **VPK without `r_size_cull_threshold "6.4"`:** it does nothing useful. At the default 0.8, heroes stay drawn 8× further out than normal, which costs FPS and gains you nothing.
+> - **`6.4` without the VPK:** distant heroes vanish.
+> - **No `citadel_unit_status_width "2000"`:** health bars still vanish at range.
+>
+> Install steps 3 **and** 4 below are both required.
+
 > **Built for `r_size_cull_threshold "6.4"`** (Valve's default is `0.8`) on Deadlock build **6726** (Sep 30 2026).
 > At 6.4, each hero now culls at the same distance Valve's default 0.8 culls it.
 > If you use a different threshold, [build your own](#building) with `--threshold <your value>`.
@@ -35,7 +47,7 @@ Raising `r_size_cull_threshold` gives a big FPS boost, but it also culls distant
    **Keep the `Mod` / `Write` lines.** Without them, the first `Game` path becomes the mod/write
    folder and the game crashes on launch ("Unable to read default keybinding configuration").
    Steam then marks the install as corrupt, and verifying the files resets `gameinfo.gi`.
-4. In the same `gameinfo.gi`, find the `ConVars` block and set the cull threshold and the health-bar fix:
+4. **Required. The mod is matched to these values.** In the same `gameinfo.gi`, find the `ConVars` block and set both:
    ```
    r_size_cull_threshold      "6.4"    // [def: "0.8"] what this VPK is matched to
    citadel_unit_status_width  "2000"   // [def: "200"] keeps health bars from being culled (see below)
