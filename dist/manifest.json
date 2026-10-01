@@ -1,0 +1,441 @@
+{
+ "threshold": 6.4,
+ "default": 0.8,
+ "factor": 8.0,
+ "models": [
+  {
+   "model": "models/heroes_staging/archer/archer.vmdl_c",
+   "pelvis_radius_before": 18.679,
+   "after": 521.801,
+   "bounds_half_diagonal": 112.97,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/archer_v2/archer_v2.vmdl_c",
+   "pelvis_radius_before": 20.145,
+   "after": 515.893,
+   "bounds_half_diagonal": 111.69,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/astro/astro.vmdl_c",
+   "pelvis_radius_before": 14.187,
+   "after": 364.475,
+   "bounds_half_diagonal": 78.91,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/atlas_detective_v2/atlas_detective.vmdl_c",
+   "pelvis_radius_before": 20.117,
+   "after": 456.722,
+   "bounds_half_diagonal": 98.88,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/bebop/bebop.vmdl_c",
+   "pelvis_radius_before": 16.763,
+   "after": 472.582,
+   "bounds_half_diagonal": 102.32,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/chrono/chrono.vmdl_c",
+   "pelvis_radius_before": 13.796,
+   "after": 576.81,
+   "bounds_half_diagonal": 124.88,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/digger/digger.vmdl_c",
+   "pelvis_radius_before": 61.919,
+   "after": 515.459,
+   "bounds_half_diagonal": 111.6,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/engineer/engineer.vmdl_c",
+   "pelvis_radius_before": 28.081,
+   "after": 461.411,
+   "bounds_half_diagonal": 99.9,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/gen_man/gen_man.vmdl_c",
+   "pelvis_radius_before": 21.095,
+   "after": 349.173,
+   "bounds_half_diagonal": 75.6,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/ghost/ghost.vmdl_c",
+   "pelvis_radius_before": 16.09,
+   "after": 363.452,
+   "bounds_half_diagonal": 78.69,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/gigawatt_prisoner/gigawatt_prisoner.vmdl_c",
+   "pelvis_radius_before": 60.496,
+   "after": 569.852,
+   "bounds_half_diagonal": 123.38,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/haze/haze.vmdl_c",
+   "pelvis_radius_before": 13.925,
+   "after": 334.825,
+   "bounds_half_diagonal": 72.49,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/hornet_v3/hornet.vmdl_c",
+   "pelvis_radius_before": 26.937,
+   "after": 405.823,
+   "bounds_half_diagonal": 87.86,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/inferno_v4/inferno.vmdl_c",
+   "pelvis_radius_before": 13.443,
+   "after": 347.51,
+   "bounds_half_diagonal": 75.24,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/kelvin_v2/kelvin.vmdl_c",
+   "pelvis_radius_before": 28.218,
+   "after": 437.282,
+   "bounds_half_diagonal": 94.67,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/magician/magician.vmdl_c",
+   "pelvis_radius_before": 11.23,
+   "after": 543.967,
+   "bounds_half_diagonal": 117.77,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/magician_v2/magician.vmdl_c",
+   "pelvis_radius_before": 12.307,
+   "after": 402.917,
+   "bounds_half_diagonal": 87.23,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/mirage_v2/mirage.vmdl_c",
+   "pelvis_radius_before": 20.277,
+   "after": 399.939,
+   "bounds_half_diagonal": 86.59,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/nano/nano_v2/nano.vmdl_c",
+   "pelvis_radius_before": 21.233,
+   "after": 313.506,
+   "bounds_half_diagonal": 67.88,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/operative/operative.vmdl_c",
+   "pelvis_radius_before": 16.861,
+   "after": 514.485,
+   "bounds_half_diagonal": 111.39,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/prof_dynamo/prof_dynamo.vmdl_c",
+   "pelvis_radius_before": 26.904,
+   "after": 421.513,
+   "bounds_half_diagonal": 91.26,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/shiv/shiv.vmdl_c",
+   "pelvis_radius_before": 22.149,
+   "after": 368.915,
+   "bounds_half_diagonal": 79.87,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/synth/synth.vmdl_c",
+   "pelvis_radius_before": 18.759,
+   "after": 434.199,
+   "bounds_half_diagonal": 94.01,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/tengu/tengu_v2/tengu.vmdl_c",
+   "pelvis_radius_before": 13.628,
+   "after": 643.614,
+   "bounds_half_diagonal": 139.35,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/viper/viper.vmdl_c",
+   "pelvis_radius_before": 17.626,
+   "after": 529.271,
+   "bounds_half_diagonal": 114.59,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/viscous/viscous.vmdl_c",
+   "pelvis_radius_before": 16.568,
+   "after": 1071.342,
+   "bounds_half_diagonal": 231.95,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/warden/warden.vmdl_c",
+   "pelvis_radius_before": 22.435,
+   "after": 416.99,
+   "bounds_half_diagonal": 90.28,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/wraith/wraith.vmdl_c",
+   "pelvis_radius_before": 10.975,
+   "after": 380.285,
+   "bounds_half_diagonal": 82.33,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/wraith_gen_man/wraith_gen_man.vmdl_c",
+   "pelvis_radius_before": 11.414,
+   "after": 386.579,
+   "bounds_half_diagonal": 83.7,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/wrecker/wrecker.vmdl_c",
+   "pelvis_radius_before": 15.689,
+   "after": 364.116,
+   "bounds_half_diagonal": 78.83,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_staging/yamato_v2/yamato.vmdl_c",
+   "pelvis_radius_before": 31.358,
+   "after": 524.929,
+   "bounds_half_diagonal": 113.65,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/abrams/abrams.vmdl_c",
+   "pelvis_radius_before": 35.01,
+   "after": 920.695,
+   "bounds_half_diagonal": 199.34,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/artist/artist.vmdl_c",
+   "pelvis_radius_before": 16.547,
+   "after": 351.05,
+   "bounds_half_diagonal": 76.0,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/baba/baba.vmdl_c",
+   "pelvis_radius_before": 25.134,
+   "after": 662.873,
+   "bounds_half_diagonal": 143.52,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/bookworm/bookworm.vmdl_c",
+   "pelvis_radius_before": 18.885,
+   "after": 292.035,
+   "bounds_half_diagonal": 63.23,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/chessmaster/chessmaster.vmdl_c",
+   "pelvis_radius_before": 28.215,
+   "after": 506.201,
+   "bounds_half_diagonal": 109.6,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/deadpack/deadpack.vmdl_c",
+   "pelvis_radius_before": 19.154,
+   "after": 423.792,
+   "bounds_half_diagonal": 91.75,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/doorman_v2/doorman.vmdl_c",
+   "pelvis_radius_before": 20.742,
+   "after": 404.035,
+   "bounds_half_diagonal": 87.48,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/drifter/drifter.vmdl_c",
+   "pelvis_radius_before": 25.478,
+   "after": 386.033,
+   "bounds_half_diagonal": 83.58,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/dynamo/dynamo.vmdl_c",
+   "pelvis_radius_before": 39.435,
+   "after": 429.477,
+   "bounds_half_diagonal": 92.98,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/familiar/familiar.vmdl_c",
+   "pelvis_radius_before": 92.582,
+   "after": 740.66,
+   "bounds_half_diagonal": 160.36,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/familiar/familiar_wip.vmdl_c",
+   "pelvis_radius_before": 16.277,
+   "after": 426.384,
+   "bounds_half_diagonal": 92.31,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/fencer/fencer.vmdl_c",
+   "pelvis_radius_before": 17.371,
+   "after": 372.943,
+   "bounds_half_diagonal": 80.74,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/frank/frank.vmdl_c",
+   "pelvis_radius_before": 22.278,
+   "after": 536.366,
+   "bounds_half_diagonal": 116.13,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/geist/geist.vmdl_c",
+   "pelvis_radius_before": 14.569,
+   "after": 358.708,
+   "bounds_half_diagonal": 77.66,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/gen_man/gen_man.vmdl_c",
+   "pelvis_radius_before": 21.106,
+   "after": 349.173,
+   "bounds_half_diagonal": 75.6,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/inferno/inferno.vmdl_c",
+   "pelvis_radius_before": 13.443,
+   "after": 347.508,
+   "bounds_half_diagonal": 75.24,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/ivy/ivy.vmdl_c",
+   "pelvis_radius_before": 15.717,
+   "after": 643.614,
+   "bounds_half_diagonal": 139.35,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/lash/lash.vmdl_c",
+   "pelvis_radius_before": 15.915,
+   "after": 370.824,
+   "bounds_half_diagonal": 80.29,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/mcginnis/mcginnis.vmdl_c",
+   "pelvis_radius_before": 25.753,
+   "after": 652.178,
+   "bounds_half_diagonal": 141.2,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/necro/necro.vmdl_c",
+   "pelvis_radius_before": 30.235,
+   "after": 644.142,
+   "bounds_half_diagonal": 139.46,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/nurse/nurse.vmdl_c",
+   "pelvis_radius_before": 26.412,
+   "after": 898.843,
+   "bounds_half_diagonal": 194.61,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/pocket/pocket.vmdl_c",
+   "pelvis_radius_before": 22.536,
+   "after": 394.726,
+   "bounds_half_diagonal": 85.46,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/priest/priest.vmdl_c",
+   "pelvis_radius_before": 33.454,
+   "after": 417.67,
+   "bounds_half_diagonal": 90.43,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/punkgoat/punkgoat.vmdl_c",
+   "pelvis_radius_before": 22.664,
+   "after": 617.781,
+   "bounds_half_diagonal": 133.75,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/ratking/ratking.vmdl_c",
+   "pelvis_radius_before": 42.007,
+   "after": 1727.698,
+   "bounds_half_diagonal": 374.06,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/unicorn/unicorn.vmdl_c",
+   "pelvis_radius_before": 15.81,
+   "after": 338.816,
+   "bounds_half_diagonal": 73.36,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/vampirebat/vampirebat.vmdl_c",
+   "pelvis_radius_before": 15.991,
+   "after": 462.842,
+   "bounds_half_diagonal": 100.21,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/werewolf/transform/werewolf_transform.vmdl_c",
+   "pelvis_radius_before": 36.507,
+   "after": 556.947,
+   "bounds_half_diagonal": 120.58,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/werewolf/werewolf.vmdl_c",
+   "pelvis_radius_before": 18.622,
+   "after": 418.786,
+   "bounds_half_diagonal": 90.67,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/wraith/wraith.vmdl_c",
+   "pelvis_radius_before": 11.671,
+   "after": 405.605,
+   "bounds_half_diagonal": 87.82,
+   "scale": 8.0
+  },
+  {
+   "model": "models/heroes_wip/wraith/wraith_fx.vmdl_c",
+   "pelvis_radius_before": 11.671,
+   "after": 366.549,
+   "bounds_half_diagonal": 79.36,
+   "scale": 8.0
+  }
+ ]
+}

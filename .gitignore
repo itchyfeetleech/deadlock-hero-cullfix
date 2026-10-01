@@ -1,0 +1,4 @@
+dist/*.vpk
+install.log
+__pycache__/
+dist/manifest.r1440.json
