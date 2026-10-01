@@ -437,5 +437,367 @@
    "bounds_half_diagonal": 79.36,
    "scale": 8.0
   }
+ ],
+ "soul_orbs": [
+  {
+   "particle": "particles/generic/spirit_orb_ambient.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -115.0,
+     -115.0,
+     -115.0
+    ],
+    [
+     115.0,
+     115.0,
+     115.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_ambient_enemy.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -115.0,
+     -115.0,
+     -115.0
+    ],
+    [
+     115.0,
+     115.0,
+     115.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_processing.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -115.0,
+     -115.0,
+     -115.0
+    ],
+    [
+     115.0,
+     115.0,
+     115.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_ambient_flash.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -115.0,
+     -115.0,
+     -115.0
+    ],
+    [
+     115.0,
+     115.0,
+     115.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_ambient_trail_dark.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -220.0,
+     -220.0,
+     -220.0
+    ],
+    [
+     220.0,
+     220.0,
+     220.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_ambient_model.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -136.0,
+     -136.0,
+     -136.0
+    ],
+    [
+     136.0,
+     136.0,
+     136.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_ambient_pnt.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -115.0,
+     -115.0,
+     -115.0
+    ],
+    [
+     115.0,
+     115.0,
+     115.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_ambient_burst.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -150.0,
+     -150.0,
+     -150.0
+    ],
+    [
+     150.0,
+     150.0,
+     150.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_ambient_start.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -115.0,
+     -115.0,
+     -115.0
+    ],
+    [
+     115.0,
+     115.0,
+     115.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_processing_symbol.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -590.0,
+     -590.0,
+     -590.0
+    ],
+    [
+     590.0,
+     590.0,
+     590.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_processing_flash.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -115.0,
+     -115.0,
+     -115.0
+    ],
+    [
+     115.0,
+     115.0,
+     115.0
+    ]
+   ]
+  },
+  {
+   "particle": "particles/generic/spirit_orb_ambient_trail_sml.vpcf_c",
+   "bbox_before": [
+    [
+     -10.0,
+     -10.0,
+     -10.0
+    ],
+    [
+     10.0,
+     10.0,
+     10.0
+    ]
+   ],
+   "bbox_after": [
+    [
+     -115.0,
+     -115.0,
+     -115.0
+    ],
+    [
+     115.0,
+     115.0,
+     115.0
+    ]
+   ]
+  },
+  {
+   "model": "models/particle/aligned_sphere_fx_model.vmdl_c",
+   "bounds_before": {
+    "scene_object_0": [
+     [
+      -10.0,
+      -9.980270385742188,
+      -9.980274200439453
+     ],
+     [
+      10.0,
+      9.98027229309082,
+      9.980271339416504
+     ]
+    ]
+   },
+   "factor": 8.0
+  },
+  {
+   "model": "models/particle/sphere.vmdl_c",
+   "bounds_before": {
+    "scene_object_0": [
+     [
+      -7.9448699951171875,
+      -7.923126220703125,
+      -7.919968128204346
+     ],
+     [
+      7.9448699951171875,
+      7.923126220703125,
+      7.888016700744629
+     ]
+    ]
+   },
+   "factor": 8.0
+  }
  ]
 }
